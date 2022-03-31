@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React**
 
-- 🤝 I’m looking for help with **Learning**
+- 🤝 I’m looking for help with **Learning and work in great place/company**
 
 - 💬 Ask me about **Java, VPS Cloud**
 
